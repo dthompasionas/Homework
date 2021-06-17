@@ -43,7 +43,7 @@ all code was up to accessability standards.
 
 Link to repo: https://github.com/dthompasionas/Horiseon-repair
 
-Link to deployed page: 
+Link to deployed page: https://dthompasionas.github.io/Horiseon-repair/
 
 Screenshot:
 
