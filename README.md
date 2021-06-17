@@ -46,6 +46,8 @@ Link to repo: https://github.com/dthompasionas/Horiseon-repair
 Link to deployed page: 
 
 Screenshot:
+
+![](Assets/images/Deployed%20Screenshot.png)
  
 
 
