@@ -1,4 +1,4 @@
-# Horiseon-repair
+#Horiseon-repair
 
 This was a code refactor on the Horiseon home page in order to make sure
 all code was up to accessability standards.
@@ -46,6 +46,8 @@ Link to repo: https://github.com/dthompasionas/Horiseon-repair
 Link to deployed page: 
 
 Screenshot:
+
+saving lower case
  
 
 
